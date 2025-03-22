@@ -1,0 +1,18 @@
+2025-03-22 00:23:36,021 - Nova conexao de ('127.0.0.1', 49176)
+2025-03-22 00:23:41,557 - Usuario autenticado: joao
+2025-03-22 00:24:11,871 - Usuario joao desconectado
+2025-03-22 00:24:52,039 - Nova conexao de ('127.0.0.1', 50148)
+2025-03-22 00:24:55,926 - Usuario autenticado: joao
+2025-03-22 00:26:23,817 - Usuario joao desconectado
+2025-03-22 00:26:29,825 - Nova conexao de ('127.0.0.1', 51306)
+2025-03-22 00:26:35,898 - Usuario autenticado: joao
+2025-03-22 00:27:20,658 - Usuario joao desconectado
+2025-03-22 00:27:21,839 - Nova conexao de ('127.0.0.1', 51965)
+2025-03-22 00:27:29,193 - Usuario autenticado: joao
+2025-03-22 00:27:59,383 - Usuario joao desconectado
+2025-03-22 00:28:07,219 - Nova conexao de ('127.0.0.1', 52512)
+2025-03-22 00:28:10,669 - Tentativa de login falhou para usuario: joao
+2025-03-22 00:28:13,931 - Nova conexao de ('127.0.0.1', 52589)
+2025-03-22 00:28:18,137 - Usuario autenticado: joao
+2025-03-22 00:28:21,053 - Usuario joao enviou: 1+2
+2025-03-22 00:28:22,979 - Usuario joao enviou: 3+5
