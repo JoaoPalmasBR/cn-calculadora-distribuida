@@ -2,9 +2,7 @@
 
 ## Objetivo:
 
-```text
 Implementar um servidor que recebe operações matemáticas de múltiplos clientes, processa-as e retorna o resultado. O servidor deve usar multithreading para lidar com várias requisições ao mesmo tempo.
-```
 
 ### Servidor
 
